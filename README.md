@@ -1,0 +1,1 @@
+# Write-a-program-to-find-whether-a-Number-is-Prime-or-Not.
